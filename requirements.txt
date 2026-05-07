@@ -1,1 +1,9 @@
-
+streamlit
+yfinance
+pandas
+numpy
+plotly
+requests
+openpyxl
+ta
+python-telegram-bot
